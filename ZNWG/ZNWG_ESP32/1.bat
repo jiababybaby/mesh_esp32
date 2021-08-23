@@ -1,0 +1,1 @@
+F:\ESP32\.espressif\esp32\mdf\esp-mdf\esp-idf\install.bat && F:\ESP32\.espressif\esp32\mdf\esp-mdf\esp-idf\export.bat

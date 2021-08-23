@@ -1,0 +1,5 @@
+source "F:/ESP32/.espressif/esp32/mdf/esp-mdf/esp-idf/components/efuse/Kconfig"
+source "F:/ESP32/.espressif/esp32/mdf/esp-mdf/esp-idf/components/esp32/Kconfig"
+source "F:/ESP32/.espressif/esp32/mdf/esp-mdf/esp-idf/components/esp_common/Kconfig"
+source "F:/ESP32/.espressif/esp32/mdf/esp-mdf/esp-idf/components/log/Kconfig"
+source "F:/ESP32/.espressif/esp32/mdf/esp-mdf/esp-idf/components/spi_flash/Kconfig"

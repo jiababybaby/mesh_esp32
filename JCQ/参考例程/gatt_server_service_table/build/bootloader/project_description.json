@@ -1,0 +1,20 @@
+{
+    "project_name":       "bootloader",
+    "project_path":       "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader/subproject",
+    "build_dir":          "F:/ESP32/.espressif/esp32/esp-idf-v4.1/examples/bluetooth/bluedroid/ble/gatt_server_service_table/build/bootloader",
+    "config_file":        "F:/ESP32/.espressif/esp32/esp-idf-v4.1/examples/bluetooth/bluedroid/ble/gatt_server_service_table/sdkconfig",
+    "config_defaults":    "",
+    "app_elf":            "bootloader.elf",
+    "app_bin":            "bootloader.bin",
+    "git_revision":       "v4.1-dirty",
+    "target":             "esp32",
+    "phy_data_partition": "",
+    "monitor_baud" :      "115200",
+    "monitor_toolprefix": "xtensa-esp32-elf-",
+    "config_environment" : {
+        "COMPONENT_KCONFIGS" : "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/efuse/Kconfig;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esp32/Kconfig;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esp_common/Kconfig;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/log/Kconfig;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/spi_flash/Kconfig",
+        "COMPONENT_KCONFIGS_PROJBUILD" : "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader/Kconfig.projbuild;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esptool_py/Kconfig.projbuild;F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/partition_table/Kconfig.projbuild"
+    },
+    "build_components" : [ "bootloader", "bootloader_support", "efuse", "esp32", "esp_common", "esp_rom", "esptool_py", "log", "main", "micro-ecc", "partition_table", "soc", "spi_flash", "xtensa", "" ],
+    "build_component_paths" : [ "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader_support", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/efuse", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esp32", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esp_common", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esp_rom", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/esptool_py", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/log", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader/subproject/main", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/bootloader/subproject/components/micro-ecc", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/partition_table", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/soc", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/spi_flash", "F:/ESP32/.espressif/esp32/esp-idf-v4.1/components/xtensa", "" ]
+}
